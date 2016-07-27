@@ -1,0 +1,7 @@
+C:\HomeProjects\Tetris\TetrisTest\bin\Debug\TetrisTest.dll
+C:\HomeProjects\Tetris\TetrisTest\bin\Debug\TetrisTest.pdb
+C:\HomeProjects\Tetris\TetrisTest\bin\Debug\nunit.framework.dll
+C:\HomeProjects\Tetris\TetrisTest\bin\Debug\nunit.framework.xml
+C:\HomeProjects\Tetris\TetrisTest\obj\Debug\TetrisTest.csprojResolveAssemblyReference.cache
+C:\HomeProjects\Tetris\TetrisTest\obj\Debug\TetrisTest.dll
+C:\HomeProjects\Tetris\TetrisTest\obj\Debug\TetrisTest.pdb
